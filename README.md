@@ -16,7 +16,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on [Portfolio Website](https://bhavyansh.codes)
+🔭 I’m currently working on [Portfolio Website](https://bhavyanshjain.com)
 <br>
 🌱 I’m currently learning Next.js and Sanity
 <br>
